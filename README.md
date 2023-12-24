@@ -1,5 +1,5 @@
-This is to do list web app.
-It allows to add, update, delete the to do items.
+This is a to do list web app that add, update, and delete tasks.
+Refer to <a href="https://github.com/nicholas1022/cantek-todo-backend" target="_blank">this</a> for backend
 
 Tech stack:
 1) React
